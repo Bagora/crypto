@@ -6,7 +6,7 @@ Django
 django-heroku
 gunicorn
 idna
-psycopg2
+psycopg2-binary
 pytz
 requests
 sqlparse
